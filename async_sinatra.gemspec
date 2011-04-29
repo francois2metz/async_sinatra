@@ -27,7 +27,6 @@ Currently, supporting servers include:
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{libraggi}
   s.rubygems_version = %q{1.6.0}
-  s.signing_key = %q{/Users/raggi/.gem/gem-private_key.pem}
   s.summary = %q{A Sinatra plugin to provide convenience whilst performing asynchronous responses inside of the Sinatra framework running under async webservers}
   s.test_files = ["test/test_async.rb"]
 
